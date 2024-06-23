@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+}
+
+.item {
+    flex: 1;
+    background-color: rgb(187, 187, 187);
+}
